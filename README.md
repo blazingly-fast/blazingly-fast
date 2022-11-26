@@ -1,10 +1,16 @@
 - 👋 Hi, I’m @blazingly-fast
 
-    .----.   @   @
-   / .-"-.`.  \v/
-   | | '\ \ \_/ )
- ,-\ `-.' /.'  /
-'---`----'----' Not that fast after all...
+
+
+
+@             _________
+ \____       /         \
+ /    \     /   ____    \
+ \_    \   /   /    \    \
+   \    \ (    \__/  )    )
+    \    \_\ \______/    /
+     \      \           /___
+      \______\_________/____"-_  Not that fast after all...
 
 <!---
 blazingly-fast/blazingly-fast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
