@@ -3,7 +3,7 @@
 
 
 
-Not that fast after all 🐌
+Not that fast after all  🐌
 
 <!---
 blazingly-fast/blazingly-fast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
