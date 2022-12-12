@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blazingly-fast
 
-
+GO; PHP; JS; LUA;
 
 
 Not that fast after all  🐌
