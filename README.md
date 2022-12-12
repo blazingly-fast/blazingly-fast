@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blazingly-fast
 
-GO*PHP*BASH*LUA*JS
+GO;PHP;BASH;LUA;JS;
 
 Not that fast after all  🐌
 
